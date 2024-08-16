@@ -1,3 +1,4 @@
 streamlit
-yt_dlp
+yt-dlp
+
 moviepy
